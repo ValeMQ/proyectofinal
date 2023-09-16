@@ -1,0 +1,35 @@
+body {
+    font-family: 'Verdana', serif;
+    background-color: #f3d46e;
+    color: #333;
+}
+  
+  button {
+    background-color: #fb9221;
+    color: #f8e764;
+    border: none;
+    cursor: pointer;
+}
+  
+  input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 8px;
+}
+  .container {
+    text-align: center;
+    margin: 20px;
+}
+  #password {
+    font-size: 18px;
+    font-weight: bold;
+    color: #013c0f;
+}
+  label {
+    font-weight: bold;
+}
+  
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
